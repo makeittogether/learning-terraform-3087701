@@ -42,7 +42,6 @@ module "blog_sg" {
 
 
 
-
 }
 
 
